@@ -40,3 +40,4 @@ Software Requirement:
 Tableau Public : https://public.tableau.com/en-us/s/download
 
 This folder contains output screenshots for each sheet configuration then used in the dashboard.
+Tableu Workbook Link: https://public.tableau.com/views/Book1_16617979847240/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
