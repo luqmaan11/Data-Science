@@ -32,6 +32,8 @@ Cancer detection using Linear and Logistic Regression models with ROC Curve and 
 
 Python program to calculate clusters using the Hierarchical Clustering method. Perform Text analysis using topic modeling algorithms.
 
+papers dataset: https://github.com/kapadias/mediumposts/blob/master/natural_language_processing/topic_modeling/data/NIPS%20Papers.zip
+
 ## Assignment 4:
 
 Design a Tableau dashboard on COVID Analytics.
