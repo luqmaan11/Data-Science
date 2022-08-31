@@ -11,7 +11,7 @@ Data Science concepts learnt:
 - Naive Bayes Classifier
 - Clustering
 - Text Analysis
-- Data Visualization using Tableu
+- Data Visualization using Tableau
 
 
 **_This repository contains the respective codes and the datasets used for each problem statement._**
